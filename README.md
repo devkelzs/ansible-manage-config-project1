@@ -53,9 +53,12 @@ SSH: SSH server must be running.
 ## 🗂 Project Structure
 
 basic-server-hardening/
-├── inventory.ini              # Ansible inventory with server info
-├── server_hardening.yml       # Main Ansible playbook
-└── README.md                  # Project documentation
+├── inventory.ini 
+
+├── server_hardening.yml       
+
+└── README.md                  
+
 
 ### Setup Instructions
 1. Create the Project Directory
